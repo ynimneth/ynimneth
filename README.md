@@ -94,18 +94,25 @@ An IoT-based system for monitoring temperature, humidity, soil moisture, and aut
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ynimneth&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=ynimneth&show_icons=true&theme=tokyonight&hide_border=true" 
+    height="180"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ynimneth&theme=tokyonight" alt="GitHub Streak" />
+  <img 
+    src="https://streak-stats.demolab.com?user=ynimneth&theme=tokyonight&hide_border=true" 
+    height="180"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ynimneth&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ynimneth&layout=compact&theme=tokyonight&hide_border=true" 
+    height="180"
+  />
 </p>
-
----
 
 ## 🎓 Education
 
