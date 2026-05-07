@@ -1,19 +1,141 @@
 <h1 align="center">Hi 👋, I'm Yenula Nimneth</h1>
-<h3 align="center">A passionate UI/UX developer and backend ,frontend developer from Sri Lanka</h3>
+<h3 align="center">UI/UX-Focused Full-Stack Developer from Sri Lanka 🇱🇰</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ynimneth&label=Profile%20views&color=0e75b6&style=flat" alt="ynimneth" /> </p>
-
-- 🌱 I’m currently learning **Java**
-
-- 💬 Ask me about **Java**
-
-- 📫 How to reach me **ynimneth@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/yenula nimneth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yenula nimneth" height="30" width="40" /></a>
-<a href="https://fb.com/yenula nimneth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yenula nimneth" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://yenula.vercel.app">Portfolio</a> •
+  <a href="mailto:ynimneth@gmail.com">Email</a> •
+  <a href="https://github.com/ynimneth">GitHub</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ynimneth&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+---
+
+## 🚀 About Me
+
+I’m **Yenula Nimneth**, an IT undergraduate at **SLIIT** with a strong interest in **web development, software engineering, UI/UX design, and AI-driven experiences**.
+
+I enjoy building clean, responsive, and practical applications that combine strong functionality with thoughtful user experience.
+
+- 🌱 Currently learning **Java, Spring Boot, React, and full-stack development**
+- 🎨 Interested in **UI/UX, product design, and frontend engineering**
+- 💻 Building projects with **React, Next.js, Java, Spring Boot, MySQL, and MongoDB**
+- 🎯 Open to **internships, collaborations, and student projects**
+- 📫 Reach me at **ynimneth@gmail.com**
+- 🌐 Portfolio: **https://yenula.vercel.app**
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+</p>
+
+### Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,mysql,mongodb,python" />
+</p>
+
+### Design & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai,git,github,vscode" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 🩸 Blood Bank Management System
+A full-stack system for managing donors, blood requests, appointments, and admin operations.
+
+**Tech:** React, Spring Boot, MySQL
+
+---
+
+### 🍔 BURGIFY
+A mobile UI/UX concept for a burger ordering app with playful branding and a smooth ordering flow.
+
+**Tools:** Figma, UI/UX Design, Mobile App Design
+
+---
+
+### 🌊 Save the Sea
+A mobile UI/UX concept focused on ocean awareness, eco habits, and action-driven storytelling.
+
+**Tools:** Figma, UI/UX Design, Mobile App Design
+
+---
+
+### 👟 Shoe App UI/UX Concept
+A sneaker shopping app concept with bold product presentation and a clean purchase flow.
+
+**Tools:** Figma, UI/UX Design, Mobile Commerce Design
+
+---
+
+### 🎵 Music Store Web Application
+A web application for customers, artists, and admins to manage music, orders, and payments.
+
+**Tech:** Java, JSP, Servlets
+
+---
+
+### 🌱 Greenhouse Automation System
+An IoT-based system for monitoring temperature, humidity, soil moisture, and automating greenhouse devices.
+
+**Tech:** ESP8266, Sensors, Blynk
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ynimneth&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ynimneth&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ynimneth&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## 🎓 Education
+
+- **BSc Honours in Information Technology**  
+  Sri Lanka Institute of Information Technology — SLIIT
+
+- **GCE Advanced Level**  
+  Physical Science Stream
+
+- **GCE Ordinary Level**  
+  Completed successfully
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+  <a href="https://yenula.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:ynimneth@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/ynimneth">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>“Building modern web experiences with a product mindset.”</b>
+</p>
